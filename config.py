@@ -8,9 +8,9 @@ DEEPSEEK_API_KEY = "sk-fcf313630b854ab6b90dd24ef11ce3c8"
 # 你可以在这里修改默认调用的模型版本
 MODELS = {
     "gemini": "gemini-1.5-flash",
-    "deepseek": "deepseek-chat",
+    "deepseek": "deepseek-reasoner",
     "chatgpt": "gpt-4o",
-    "local": "llama3"  # 本地 Ollama 模型名称
+    "local": "qwen2.5:7b"  # 本地 Ollama 模型名称
 }
 
 # 默认增强倍数 (1.0 为原图，>1.0 为增强)
