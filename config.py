@@ -1,13 +1,13 @@
 # config.py
 
 # 请将你的 Key 填入引号中
-GEMINI_API_KEY = "你的_GEMINI_KEY"
+GEMINI_API_KEY = "AIzaSyDV1xcRAOmwFHr3IYQAgjdEzjw72x1J9S0"
 OPENAI_API_KEY = "你的_OPENAI_KEY"
 DEEPSEEK_API_KEY = "sk-fcf313630b854ab6b90dd24ef11ce3c8"
 
 # 你可以在这里修改默认调用的模型版本
 MODELS = {
-    "gemini": "gemini-1.5-flash",
+    "gemini": "gemini-2.5-pro",
     "deepseek": "deepseek-reasoner",
     "chatgpt": "gpt-4o",
     "local": "qwen2.5:7b"  # 本地 Ollama 模型名称
