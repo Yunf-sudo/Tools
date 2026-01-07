@@ -1,0 +1,5 @@
+Pillow           # 图片处理核心
+openai           # 调用在线API (GPT, DeepSeek, Claude等)
+ollama           # 调用本地Ollama模型
+tqdm             # 进度条显示 (提升工具体验)
+colorama         # 终端颜色输出
