@@ -3,7 +3,7 @@
 # 请将你的 Key 填入引号中
 GEMINI_API_KEY = "你的_GEMINI_KEY"
 OPENAI_API_KEY = "你的_OPENAI_KEY"
-DEEPSEEK_API_KEY = "你的_DEEPSEEK_KEY"
+DEEPSEEK_API_KEY = "sk-fcf313630b854ab6b90dd24ef11ce3c8"
 
 # 你可以在这里修改默认调用的模型版本
 MODELS = {
